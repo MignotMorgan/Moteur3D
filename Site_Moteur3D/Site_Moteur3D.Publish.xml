@@ -1,0 +1,41 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="10/20/2014 21:24:04" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:30" />
+    <file relUrl="PageWeb/PageBase.js" publishTime="08/18/2015 17:10:24" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="07/31/2011 23:50:24" />
+    <file relUrl="PageEditor.aspx" publishTime="08/20/2015 13:37:25" />
+    <file relUrl="PageWeb/Animation.js" publishTime="06/12/2015 14:36:25" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:26" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:26" />
+    <file relUrl="PageDemo.js" publishTime="08/19/2015 16:39:59" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:30" />
+    <file relUrl="PageForum.aspx" publishTime="08/20/2015 13:40:52" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="07/31/2011 23:50:24" />
+    <file relUrl="PageWeb/Control.js" publishTime="06/12/2015 20:34:40" />
+    <file relUrl="PageWeb/FormMap.js" publishTime="06/10/2015 10:58:51" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="10/20/2014 21:24:04" />
+    <file relUrl="Web.config" publishTime="08/20/2015 13:24:31" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="10/20/2014 21:24:04" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="PageEditor.js" publishTime="06/12/2015 18:12:52" />
+    <file relUrl="PageWeb/Keyboard.js" publishTime="06/12/2015 18:12:52" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:26" />
+    <file relUrl="bin/Site_Moteur3D.pdb" publishTime="08/20/2015 13:41:09" />
+    <file relUrl="bin/Site_Moteur3D.dll" publishTime="08/20/2015 13:41:09" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:30" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:30" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:26" />
+    <file relUrl="PageWeb/PageMap.js" publishTime="08/19/2015 16:39:58" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:30" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:26" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="07/31/2011 23:50:28" />
+    <file relUrl="PageDemo.aspx" publishTime="08/20/2015 13:40:49" />
+    <file relUrl="PageForum.js" publishTime="06/30/2015 19:46:58" />
+    <file relUrl="Default.aspx" publishTime="08/20/2015 12:44:27" />
+  </publishTarget>
+</publishData>
